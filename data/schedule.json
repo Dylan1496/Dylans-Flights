@@ -1,0 +1,47 @@
+{
+  "pilot": {
+    "name": "dylan",
+    "displayName": "Dylan's Logbook",
+    "description": "App for documenting my flight experiences.",
+    "socials": {
+      "Placeholder": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    }
+  },
+  "timezone": "America/New_York",
+  "flights": [
+    {
+      "date": "2025-12-22",
+      "callsign": "TPC341",
+      "origin": "PHNL",
+      "destination": "PHOG",
+      "departureTime": "08:00",
+      "flightTime": "5h 30m",
+      "aircraft": "Cessna 172 Skyhawk",
+      "category": "tpc"
+    },
+    {
+      "date": "2025-12-23",
+      "callsign": "UPS514",
+      "origin": "KIND",
+      "destination": "PANC",
+      "departureTime": "14:30",
+      "flightTime": "11h 45m",
+      "aircraft": "McDonnell Douglas MD-11F",
+      "category": "charter"
+    }
+  ],
+  "categories": {
+    "tpc": {
+      "color": "#37b5ff",
+      "icon": "airplane"
+    },
+    "personal": {
+      "color": "#9147ff",
+      "icon": "airplane-takeoff"
+    },
+    "charter": {
+      "color": "#e17055",
+      "icon": "airplane-marker"
+    }
+  }
+}

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>All Flights - Dylan's Flights</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/@mdi/font@7.4.47/css/materialdesignicons.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <div class="pilot-info">
+                <h1 class="pilot-name" id="pilot-name">Loading...</h1>
+                <p class="pilot-description" id="pilot-description"></p>
+            </div>
+            <nav class="social-links" id="social-links"></nav>
+        </header>
+
+        <nav class="page-nav">
+            <a href="index.html" class="page-nav-link">Weekly Schedule</a>
+            <a href="flights.html" class="page-nav-link active">All Flights</a>
+        </nav>
+
+        <main>
+            <section class="flights-section">
+                <div class="flights-header">
+                    <h2 class="section-title">All Flights</h2>
+                    <div class="filter-controls">
+                        <select id="category-filter" class="filter-select">
+                            <option value="all">All Categories</option>
+                        </select>
+                        <select id="time-filter" class="filter-select">
+                            <option value="upcoming">Upcoming</option>
+                            <option value="past">Past</option>
+                            <option value="all">All Time</option>
+                        </select>
+                    </div>
+                </div>
+                <p class="flight-count" id="flight-count"></p>
+                <div class="flights-list" id="flights-list">
+                    <!-- Flights will be populated by JavaScript -->
+                </div>
+            </section>
+        </main>
+
+        <footer class="footer">
+            <p>Flight Tracker</p>
+        </footer>
+    </div>
+
+    <script src="js/flights.js"></script>
+</body>
+</html>
