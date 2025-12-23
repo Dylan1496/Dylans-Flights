@@ -154,6 +154,7 @@ class AllFlights {
                             <span class="flight-card-duration"><i class="mdi mdi-timer-outline"></i> ${flight.flightTime}</span>
                         </div>
                         <p class="flight-card-aircraft"><i class="mdi mdi-airplane"></i> ${flight.aircraft}</p>
+                        <p class="flight-card-notes"><i class="mdi mdi-pencil></i> ${flight.notes}</p>
                     </div>
                 </div>
             `;
