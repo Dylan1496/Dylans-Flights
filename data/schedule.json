@@ -17,7 +17,8 @@
       "departureTime": "12:09",
       "flightTime": "1h 29m",
       "aircraft": "Beechcraft Duke",
-      "category": "personal"
+      "category": "personal",
+      "notes": "Operation Santa Leg 1"
     },
     {
       "date": "2025-12-22",
@@ -27,7 +28,8 @@
       "departureTime": "14:32",
       "flightTime": "1h 36m",
       "aircraft": "Beechcraft Duke",
-      "category": "personal"
+      "category": "personal",
+      "notes": "Operation Santa Leg 2"
     },
     {
       "date": "2025-12-23",
@@ -37,7 +39,8 @@
       "departureTime": "21:00",
       "flightTime": "2h",
       "aircraft": "Piper Comanche",
-      "category": "stewflight"
+      "category": "stewflight",
+      "notes": ""
     },
     {
       "date": "2026-01-28",
@@ -46,7 +49,8 @@
       "destination": "20:00",
       "flightTime": "1h 30m",
       "aircraft": "GotFriends DoubleEnder",
-      "category": "tpc"
+      "category": "tpc",
+      "notes": "link pending..."
     }
   ],
   "categories": {
