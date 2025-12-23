@@ -1,4 +1,4 @@
-# Stew's Streams Schedule
+# Logbook for Dylan
 Made by Seb!
 ## Edit
 Look @ schedule.json
