@@ -1,34 +1,52 @@
 {
   "pilot": {
-    "name": "dylan",
+    "name": "Dylan Delgado",
     "displayName": "Dylan's Logbook",
     "description": "App for documenting my flight experiences.",
     "socials": {
-      "Placeholder": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+      "Substack": "https://www.theautisticmuse.substack.com"
     }
   },
   "timezone": "America/New_York",
   "flights": [
     {
       "date": "2025-12-22",
-      "callsign": "TPC341",
-      "origin": "PHNL",
-      "destination": "PHOG",
-      "departureTime": "08:00",
-      "flightTime": "5h 30m",
-      "aircraft": "Cessna 172 Skyhawk",
-      "category": "tpc"
+      "callsign": "N1496D",
+      "origin": "62S",
+      "destination": "KEKS",
+      "departureTime": "12:09",
+      "flightTime": "1h 29m",
+      "aircraft": "Beechcraft Duke",
+      "category": "personal"
+    },
+    {
+      "date": "2025-12-22",
+      "callsign": "N1496D",
+      "origin": "KEKS",
+      "destination": "05D",
+      "departureTime": "14:32",
+      "flightTime": "1h 36m",
+      "aircraft": "Beechcraft Duke",
+      "category": "personal"
     },
     {
       "date": "2025-12-23",
       "callsign": "UPS514",
-      "origin": "KIND",
-      "destination": "PANC",
-      "departureTime": "14:30",
-      "flightTime": "11h 45m",
-      "aircraft": "McDonnell Douglas MD-11F",
-      "category": "charter"
-    }
+      "origin": "CYEV",
+      "destination": "PFYU",
+      "departureTime": "21:00",
+      "flightTime": "2h",
+      "aircraft": "Piper Comanche",
+      "category": "stewflight"
+    },
+    {
+      "date": "2026-01-28",
+      "callsign": "TPC1496",
+      "origin": "KHLX",
+      "destination": "20:00",
+      "flightTime": "1h 30m",
+      "aircraft": "GotFriends DoubleEnder",
+      "category": "tpc"
   ],
   "categories": {
     "tpc": {
@@ -42,6 +60,9 @@
     "charter": {
       "color": "#e17055",
       "icon": "airplane-marker"
-    }
+    },
+    "stewflight": {
+      "color": "#163fe4",
+      "icon": "airplane"
   }
 }
