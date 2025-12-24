@@ -167,7 +167,7 @@ class FlightSchedule {
                     <i class="mdi mdi-${icon}"></i> ${flight.category}
                 </span>
                 <div class="flight-callsign">${flight.callsign}</div>
-                <div class="flight-route">${flight.origin} → ${flight.destination}</div>
+                <div class="flight-route"><a href="https://skyvector.com/airport/${flight.origin}"> ${flight.origin} </a> → <a href="https://skyvector.com/airport/${flight.destination}">${flight.destination} </a></div>
                 <div class="flight-time">
                     <i class="mdi mdi-clock-outline"></i> ${formattedTime}
                     <span class="flight-duration">${flight.flightTime}</span>
