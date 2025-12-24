@@ -53,7 +53,7 @@
       "notes": "link pending..."
     }
   ],
-  "categories": {
+  "categories": [
     "tpc": {
       "color": "#37b5ff",
       "icon": "airplane"
@@ -70,5 +70,5 @@
       "color": "#163fe4",
       "icon": "airplane"
     }
-  }
+  ]
 }
