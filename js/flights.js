@@ -148,7 +148,7 @@ class AllFlights {
                             <i class="mdi mdi-${icon}"></i> ${flight.category}
                         </span>
                         <h3 class="flight-card-callsign">${flight.callsign}</h3>
-                        <p class="flight-card-route">${flight.origin} → ${flight.destination}</p>
+                        <p class="flight-card-route"><a href="https://airnav.com/airport/${flight.origin}"> ${flight.origin} </a> → <a href="https://airnav.com/airport/${flight.destination}">${flight.destination} </a></p>
                         <div class="flight-card-details">
                             <span class="flight-card-time"><i class="mdi mdi-clock-outline"></i> ${this.formatTime(flight.departureTime)}</span>
                             <span class="flight-card-duration"><i class="mdi mdi-timer-outline"></i> ${flight.flightTime}</span>
