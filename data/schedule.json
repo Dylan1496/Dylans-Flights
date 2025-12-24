@@ -33,10 +33,10 @@
     },
     {
       "date": "2025-12-23",
-      "callsign": "UPS514",
+      "callsign": "N1496D",
       "origin": "CYEV",
       "destination": "PFYU",
-      "departureTime": "21:00",
+      "departureTime": "21:45",
       "flightTime": "2h",
       "aircraft": "Piper Comanche",
       "category": "stewflight",
@@ -46,14 +46,15 @@
       "date": "2026-01-28",
       "callsign": "TPC1496",
       "origin": "KHLX",
-      "destination": "20:00",
+      "destination": "WV12",
+      "departureTime": "20:00",
       "flightTime": "1h 30m",
       "aircraft": "GotFriends DoubleEnder",
       "category": "tpc",
       "notes": "link pending..."
     }
   ],
-  "categories": [
+  "categories": {
     "tpc": {
       "color": "#37b5ff",
       "icon": "airplane"
@@ -70,5 +71,5 @@
       "color": "#163fe4",
       "icon": "airplane"
     }
-  ]
+  }
 }
