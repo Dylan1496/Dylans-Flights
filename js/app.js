@@ -173,6 +173,7 @@ class FlightSchedule {
                     <span class="flight-duration">${flight.flightTime}</span>
                 </div>
                 <div class="flight-aircraft"><i class="mdi mdi-airplane"></i> ${flight.aircraft}</div>
+                <div class="flight-notes"><i class="mdi mdi-pencil"></i> ${flight.notes}</div>
             </div>
         `;
     }
