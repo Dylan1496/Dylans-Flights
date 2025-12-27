@@ -43,6 +43,17 @@
       "notes": ""
     },
     {
+      "date": "2025-12-26",
+      "callsign": "TPC1496",
+      "origin": "LIRF",
+      "destination": "URSS",
+      "departureTime": "20:05",
+      "flightTime": "3h 15m",
+      "aircraft": "Airbus A320neo",
+      "category": "personal",
+      "notes": ""
+    },
+    {
       "date": "2026-01-28",
       "callsign": "TPC1496",
       "origin": "KHLX",
