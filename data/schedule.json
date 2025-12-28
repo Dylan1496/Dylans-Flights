@@ -54,6 +54,17 @@
       "notes": ""
     },
     {
+      "date": "2025-12-26",
+      "callsign": "MNW188",
+      "origin": "KPHX",
+      "destination": "PHNL",
+      "departureTime": "14:25",
+      "flightTime": "7h 5m",
+      "aircraft": "Airbus A320neo",
+      "category": "personal",
+      "notes": "Midn't Air flight"
+    },
+    {
       "date": "2026-01-28",
       "callsign": "TPC1496",
       "origin": "KHLX",
