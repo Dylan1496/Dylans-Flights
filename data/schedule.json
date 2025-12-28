@@ -54,7 +54,7 @@
       "notes": ""
     },
     {
-      "date": "2025-12-26",
+      "date": "2025-12-28",
       "callsign": "MNW188",
       "origin": "KPHX",
       "destination": "PHNL",
@@ -63,6 +63,18 @@
       "aircraft": "Airbus A320neo",
       "category": "personal",
       "notes": "Midn't Air flight"
+    },
+    {
+      "date": "2025-12-30",
+      "callsign": "TPC1496",
+      "origin": "73CA",
+      "destination": "KCCR",
+      "departureTime": "20:00",
+      "flightTime": "2h",
+      "aircraft": "Piper Comanche",
+      "category": "tpc",
+      "notes": "https://www.thepilotclub.org/dispatch/ga-tuesday-30dec2025
+      Plan is 73CA -> KSAC -> KCCR. If I have some more time, I will go up to KAPA after my full stop at KCCR."
     },
     {
       "date": "2026-01-28",
