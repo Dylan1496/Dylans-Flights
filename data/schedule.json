@@ -4,7 +4,7 @@
     "displayName": "Dylan's Logbook",
     "description": "App for documenting my flight experiences.",
     "socials": {
-      "Substack": "https://theautisticmuse.substack.com"
+      "substack": "https://theautisticmuse.substack.com"
     }
   },
   "timezone": "America/New_York",
@@ -74,6 +74,39 @@
       "aircraft": "Piper Comanche",
       "category": "tpc",
       "notes": "https://www.thepilotclub.org/dispatch/ga-tuesday-30dec2025. Plan is 73CA -> KSAC -> KCCR. If I have some more time, I will go up to KAPA after my full stop at KCCR."
+    },
+    {
+      "date": "2025-12-31",
+      "callsign": "MNW577",
+      "origin": "PHNL",
+      "destination": "PTCH",
+      "departureTime": "11:00",
+      "flightTime": "2h 45m",
+      "aircraft": "Airbus A320neo",
+      "category": "personal",
+      "notes": "Midn't Air flight. Will fly in Flight Voice 1 in TPC discord. Flight plan route: OPIHI3 DOVRR B596 RAYOR"
+    },
+    {
+      "date": "2025-12-31",
+      "callsign": "MNW577B",
+      "origin": "PLCH",
+      "destination": "NTAA",
+      "departureTime": "14:15",
+      "flightTime": "2h 45m",
+      "aircraft": "Airbus A320neo",
+      "category": "personal",
+      "notes": "Midn't Air flight. Will fly in Flight Voice 1 in TPC discord. Flight plan route: 00N55 TAERO B595 TAF"
+    },
+    {
+      "date": "2025-12-31",
+      "callsign": "N1496D",
+      "origin": "KBUF",
+      "destination": "KSDF",
+      "departureTime": "21:00",
+      "flightTime": "1h 15m",
+      "aircraft": "Airbus A320neo",
+      "category": "stewflight",
+      "notes": ""
     },
     {
       "date": "2026-01-28",
