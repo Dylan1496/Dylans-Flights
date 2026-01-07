@@ -109,6 +109,27 @@
       "notes": ""
     },
     {
+      "date": "2025-01-07",
+      "callsign": "N1496D"
+      "origin": "KHTS",
+      "destination": "KLOU",
+      "departureTime": "19:30"
+      "flightTime": "1h 30m",
+      "aircraft": "Piper Comanche",
+      "category": "stewflight",
+      "notes": "I-64 staff up event"
+    },
+    {
+      "date": "2025-01-08",
+      "callsign": "TPC1496"
+      "origin": "7N1",
+      "destination": "CYYZ",
+      "departureTime": "20:15"
+      "flightTime": "1h 30m",
+      "aircraft": "Piper Comanche",
+      "category": "tpc",
+      "notes": "https://www.thepilotclub.org/dispatch/sbr-tpc-fly-in-thursday-8jan2026. Plan is 7N1 -> KBUF -> CYOO -> CYYZ"
+    {
       "date": "2026-01-28",
       "callsign": "TPC1496",
       "origin": "KHLX",
