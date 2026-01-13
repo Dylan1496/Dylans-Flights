@@ -109,7 +109,7 @@
       "notes": ""
     },
     {
-      "date": "2025-01-07",
+      "date": "2026-01-07",
       "callsign": "N1496D"
       "origin": "KHTS",
       "destination": "KLOU",
@@ -120,7 +120,7 @@
       "notes": "I-64 staff up event"
     },
     {
-      "date": "2025-01-08",
+      "date": "2026-01-08",
       "callsign": "TPC1496"
       "origin": "7N1",
       "destination": "CYYZ",
@@ -131,8 +131,8 @@
       "notes": "https://www.thepilotclub.org/dispatch/sbr-tpc-fly-in-thursday-8jan2026. Plan is 7N1 -> KBUF -> CYOO -> CYYZ"
     },
     {
-      "date": "2025-01-13",
-      "callsign": "TPC1496"
+      "date": "2026-01-13",
+      "callsign": "TPC1496",
       "origin": "KILN",
       "destination": "KCRW",
       "departureTime": "20:15"
@@ -142,8 +142,8 @@
       "notes": "https://www.thepilotclub.org/dispatch/ga-tuesday-13jan2026. Plan is KILN -> KJRO -> KCRW"
     },
     {
-      "date": "2025-01-14",
-      "callsign": "TPC1496"
+      "date": "2026-01-14",
+      "callsign": "TPC1496",
       "origin": "KEYE",
       "destination": "KSPI",
       "departureTime": "20:30"
