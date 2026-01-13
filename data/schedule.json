@@ -129,6 +129,29 @@
       "aircraft": "Piper Comanche",
       "category": "tpc",
       "notes": "https://www.thepilotclub.org/dispatch/sbr-tpc-fly-in-thursday-8jan2026. Plan is 7N1 -> KBUF -> CYOO -> CYYZ"
+    },
+    {
+      "date": "2025-01-13",
+      "callsign": "TPC1496"
+      "origin": "KILN",
+      "destination": "KCRW",
+      "departureTime": "20:15"
+      "flightTime": "1h 15m",
+      "aircraft": "Piper Comanche",
+      "category": "tpc",
+      "notes": "https://www.thepilotclub.org/dispatch/ga-tuesday-13jan2026. Plan is KILN -> KJRO -> KCRW"
+    },
+    {
+      "date": "2025-01-14",
+      "callsign": "TPC1496"
+      "origin": "KEYE",
+      "destination": "KSPI",
+      "departureTime": "20:30"
+      "flightTime": "1h 15m",
+      "aircraft": "Beechcraft Duke",
+      "category": "stewflight",
+      "notes": ""
+    },
     {
       "date": "2026-01-28",
       "callsign": "TPC1496",
