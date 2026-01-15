@@ -113,7 +113,7 @@
       "callsign": "N1496D"
       "origin": "KHTS",
       "destination": "KLOU",
-      "departureTime": "19:30"
+      "departureTime": "19:30",
       "flightTime": "1h 30m",
       "aircraft": "Piper Comanche",
       "category": "stewflight",
@@ -124,7 +124,7 @@
       "callsign": "TPC1496"
       "origin": "7N1",
       "destination": "CYYZ",
-      "departureTime": "20:15"
+      "departureTime": "20:15",
       "flightTime": "1h 30m",
       "aircraft": "Piper Comanche",
       "category": "tpc",
@@ -135,7 +135,7 @@
       "callsign": "TPC1496",
       "origin": "KILN",
       "destination": "KCRW",
-      "departureTime": "20:15"
+      "departureTime": "20:15",
       "flightTime": "1h 15m",
       "aircraft": "Piper Comanche",
       "category": "tpc",
@@ -146,9 +146,9 @@
       "callsign": "TPC1496",
       "origin": "KEYE",
       "destination": "KSET",
-      "departureTime": "20:30"
-      "flightTime": "1h 15m",
-      "aircraft": "Beechcraft Duke",
+      "departureTime": "21:15",
+      "flightTime": "1h 45m",
+      "aircraft": "Piper Comanche",
       "category": "stewflight",
       "notes": ""
     },
